@@ -4,7 +4,7 @@
 
 | Status | Tech Stack | Type | Context |
 | :--- | :--- | :--- | :--- |
-| **Active Development** | Python, Scikit-learn, Pandas | Predictive ML Model | **ISGA Academic Project** |
+| **In Progress** | Python, Scikit-learn, Pandas | Predictive ML Model | **ISGA Academic Project** |
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nveyounes/Diabetes-Predictor?style=for-the-badge&color=2ecc71)](https://github.com/nveyounes/Diabetes-Predictor)
 [![License](https://img.shields.io/github/license/nveyounes/Diabetes-Predictor?style=for-the-badge&color=3498db)](LICENSE)
@@ -16,7 +16,7 @@
 
 This repository contains a machine learning project developed for an academic report. The primary objective is to build and evaluate a predictive model that can determine the likelihood of a patient having diabetes based on specific medical features.
 
-This project demonstrates the complete end-to-end machine learning workflow, from data cleaning and exploration to model training and evaluation.
+This project demonstrates the end-to-end machine learning workflow, from data cleaning and exploration to model training and evaluation.
 
 ### 📌 Key Concepts Demonstrated
 * Data Preprocessing and Feature Engineering.
@@ -57,13 +57,21 @@ The model's performance is evaluated on the unseen test data using metrics like 
 
 ---
 
-## 📸 How Data is processed 
+## 📈 Next Steps
 
-**Note:** .
+This project is under active development. Future plans include:
+* **Model Tweaking:** Hyperparameter tuning to improve accuracy.
+* **Feature Engineering:** Creating new features from the existing data to boost performance.
+* **Trying Other Models:** Implementing and comparing different algorithms (e.g., SVM, Random Forest, XGBoost).
+* **Deployment:** (Optional) Deploying the final model using a simple web framework like Flask or Streamlit.
 
-| Dataset Snapshot | Model Validation (Confusion Matrix) |
+---
+
+## 📸 Project Visuals (Data & Results)
+
+| Labels & Features | Data Splitting |
 | :---: | :---: |
-| ![Class Labels and Features](img/dataset.webp) | ![Data Splitting(img/validation.webp) |
+| ![Labels & Features](img/dataset.webp) | ![Data Splitting](imgimg/validation.webp) |
 
 ---
 
@@ -100,4 +108,4 @@ This was an academic project for **ISGA (EDVANTIS Higher Education Group)**.
 * **El Mortada**
 
 ### Supervised By:
-* *Pr. ASRI*
+* **Pr. ASRI**
