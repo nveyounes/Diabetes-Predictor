@@ -63,7 +63,7 @@ The model's performance is evaluated on the unseen test data using metrics like 
 
 | Dataset Snapshot | Model Validation (Confusion Matrix) |
 | :---: | :---: |
-| ![Dataset Screenshot](img/dataset.webp) | ![Validation Confusion Matrix](img/validation.webp) |
+| ![Class Labels and Features](img/dataset.webp) | ![Data Splitting(img/validation.webp) |
 
 ---
 
