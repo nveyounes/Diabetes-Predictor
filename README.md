@@ -57,9 +57,9 @@ The model's performance is evaluated on the unseen test data using metrics like 
 
 ---
 
-## 📸 Project Visuals (Data & Results)
+## 📸 How Data is processed 
 
-**Note:** For these images to appear, create an `img` folder in your repository and place `dataset.webp` and `validation.webp` inside it.
+**Note:** .
 
 | Dataset Snapshot | Model Validation (Confusion Matrix) |
 | :---: | :---: |
