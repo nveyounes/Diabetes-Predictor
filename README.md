@@ -4,7 +4,7 @@
 
 | Status | Tech Stack | Type | Context |
 | :--- | :--- | :--- | :--- |
-| **In Progress** | Python, Scikit-learn, Pandas | Predictive ML Model | **ISGA Academic Project** |
+| **Active Development** | Python, Scikit-learn, Pandas | Predictive ML Model | **ISGA Academic Project** |
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/nveyounes/Diabetes-Predictor?style=for-the-badge&color=2ecc71)](https://github.com/nveyounes/Diabetes-Predictor)
 [![License](https://img.shields.io/github/license/nveyounes/Diabetes-Predictor?style=for-the-badge&color=3498db)](LICENSE)
@@ -67,11 +67,11 @@ This project is under active development. Future plans include:
 
 ---
 
-## 📸 Project Visuals (Data & Results)
+## 📸 Project Visuals
 
 | Labels & Features | Data Splitting |
 | :---: | :---: |
-| ![Labels & Features](img/dataset.webp) | ![Data Splitting](imgimg/validation.webp) |
+| <img src="img/dataset.webp" alt="Labels & Features"> | <img src="imgimg/validation.webp" alt="Data Splitting" width="350"> |
 
 ---
 
