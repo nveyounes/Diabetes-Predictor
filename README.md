@@ -96,8 +96,8 @@ jupyter notebook machine_learning.ipynb
 
 This was an academic project for **ISGA (EDVANTIS Higher Education Group)**.
 
-* **Younes Farhat**
-* *(Feel free to add other authors here)*
+* **Farhat**
+* **El Mortada**
 
 ### Supervised By:
-* *(Feel free to add your supervisor's name here)*
+* *Pr. ASRI*
